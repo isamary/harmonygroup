@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<title>Harmony Group</title>
+</head>
+<body>
+	<header> 
+      <nav> 
+        <a href="primerapage.html">Inicio</a> 
+        <a href="segundapage.html">Nosotros</a> 
+       
+        </nav> 
+        </header> 
+		 <footer> 
+            <p>Derechos reservados</p> 
+            <p>Contactenos en info@tumaestroweb.com</p> 
+         </footer> 
+
+<body bgcolor=negro>
+<div class="Harmonygroup">
+  <div align="center">
+    <hr align=center>
+
+
+  <img src="Images/Gastronomía y garnish1.jpg" width="200" height="300" alt=""/><img src="Images/Gatronomía y garnish2.jpg" width="208" height="300" alt=""/><img src="../Works/SéPTIMO SEMESTRE/Diseño de sitios web/harmony /Images/marca copia.png" width="237" height="64" alt=""/><img src="Images/novias4.jpg" width="194" height="295" alt=""/><img src="Images/novias1.jpg" width="217" height="295" alt=""/></div>
+</div>
+<hr>
+<p align="center">&nbsp;</p>
+<img src="images/icon.png" width="74" height="206" alt=""/>
+<br>fotografia</br>
+<br>ilustracion</br>
+<br>animacion</br>
+
+
+
+</body>
+</html>
