@@ -1,0 +1,13 @@
+
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>segundapage</title>
+</head>
+
+<body>
+<p>la segunda page</p>
+<p><a href="primerapage.html">ir a la primera page</a></p>
+</body>
+</html>
