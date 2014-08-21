@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+
+#containerEx3 {
+	   width: 800px;
+	   margin: 0 auto;
+	}
+#ex3 img {
+   height: 400px;
+   width: 180px;
+   margin: 100px;
+   border: 5px solid #eee;
+   -webkit-box-shadow: 4px 4px 4px rgba(0,0,0,0.2);
+   -moz-box-shadow: 4px 4px 4px rgba(0,0,0,0.2);
+   box-shadow: 4px 4px 4px rgba(0,0,0,0.2);
+   -webkit-transition: all 0.5s ease-out;
+   -moz-transition: all 0.5s ease;
+   -ms-transition: all 0.5s ease;
+   float: right; padding-left: 0em;
+
+}
+#ex3 img:hover {
+   -webkit-transform: rotate(-7deg);
+   -moz-transform: rotate(-7deg);
+   -ms-transform: rotate(-7deg);
+   transform: rotate(-7deg);
+}
+
+

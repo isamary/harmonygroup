@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+
+#ex4 {
+   width: 200px;
+   height: 200px;
+   line-height: 0px;
+   color: transparent; font-size: 50px;
+   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
+   font-weight: 200;
+   text-transform: uppercase;
+   -webkit-transition: all 0.5s ease;
+   -moz-transition: all 0.5s ease;
+   -ms-transition: all 0.5s ease;
+   transition: all 0.5s ease;
+   float: right; padding-left: 0em;
+}
+#ex4:hover {
+   line-height: 100px;
+   color: #575858;
+}
+#ex4 img{ float: bottom;
+   margin: 0 40px;
+}

@@ -1,0 +1,33 @@
+#ex1 {
+   margin: 10px;
+   border: 0px solid #eee;
+   -webkit-box-shadow: 0px 0px 0px rgba(0,0,0,0.2);
+   -moz-box-shadow: 0px 0px 0px rgba(0,0,0,0.2);
+   box-shadow: 0px 0px 0px rgba(0,0,0,0.2);
+   -webkit-transition: all 0.5s ease-out;
+   -moz-transition: all 0.5s ease;
+   -ms-transition: all 0.5s ease;
+
+}
+#ex1 img:hover {
+       -webkit-transform: rotate(-7deg);
+	   -moz-transform: rotate(-7deg);
+	   -ms-transform: rotate(-7deg);
+	   transform: rotate(-7deg);
+
+}
+
+#ex2 img{
+   height: auto;
+   width: auto;
+   margin: 0;
+   -webkit-transition: all 1s ease;
+   -moz-transition: all 1s ease;
+   -ms-transition: all 1s ease;
+   transition: all 1s ease;
+}
+#ex2 img:hover {
+   height:auto;
+   width: auto ;
+   margin-left: 0px;
+}
